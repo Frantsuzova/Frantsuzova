@@ -20,15 +20,10 @@
 
 
 <a href="https://www.codewars.com/users/Frantsuzova">
-  <img src="./codewars.JPG" width="300px">
+  <img src="./codewars.JPG" width="350px">
 </a>
-<table border="0"> 
- <tr><td>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Frantsuzova&theme=dark&background=000000)](https://git.io/streak-stats)
- </td>
- <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frantsuzova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </td>
- </tr>
- </table>
+
