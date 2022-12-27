@@ -20,7 +20,7 @@
 
 
 <a href="https://www.codewars.com/users/Frantsuzova">
-  <img src="./codewars.JPG" width="200px">
+  <img src="./codewars.JPG" width="400px">
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Frantsuzova&theme=dark&background=000000)](https://git.io/streak-stats)
