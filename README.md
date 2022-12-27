@@ -20,5 +20,5 @@
 
 
 <a href="https://www.codewars.com/users/Frantsuzova">
-  <img src="./codewars.jpg">
+  <img src="./codewars.JPG">
 </a>
