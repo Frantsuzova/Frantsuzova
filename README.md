@@ -1,6 +1,7 @@
 ### Hi there! &#128075;
 
 ### &#128296; Tech stack<br/>
+![PYTHON](./python.png "PYTHON")
 ![VSCODE](./vscode.png "VSCODE")
 ![HTML5](./html.png "HTML5")
 ![CSS3](./css.png "CSS3")
