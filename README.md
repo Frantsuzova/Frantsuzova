@@ -23,6 +23,7 @@
   <img src="./codewars.JPG" width="350px">
 </a>
 <br>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook&theme=dafault&locale=en&border_radius=20&card_width=372) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frantsuzova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
