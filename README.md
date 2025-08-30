@@ -23,8 +23,6 @@
   <img src="./codewars.JPG" width="350px">
 </a>
 <br>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuliazherebtsova&layout=compact&hide=jupyter%20notebook&theme=dafault&locale=en&border_radius=20&card_width=372) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frantsuzova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=Frantsuzova&theme=darcula&show_icons=true" /> | <img align="center" height="155px" src="http://github-readme-streak-stats.herokuapp.com?user=Frantsuzova&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
